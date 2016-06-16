@@ -30,8 +30,18 @@ Needed for this lesson:
 
 ## Instructor's Notes
 
-* 
-
+*  BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](https://www.youtube.com/watch?v=q2UMQaoW30U)
+    -   SOPA & PIPA: 0:00-1:00
+    -   3D Computer Graphics Explanation: 1:00-5:24
+    -   3D Graphics steps outlined: 5:25-5:50
+    -   Modelling (Useful for Lab 2.6): 5:50-11:40
+    -   Animation (Uncanny Valley Explanation): 11:40-16:55
+    -   Procedural Based Motion (Lab 1.1): 16:56-20:00
+    -   Genetic Algorithms: 20:05-25:25
+    -   Lighting and Shading: 25:25-27:10
+    -   Rendering: 27:10- 30:55
+    -   Global Illumination: 30:55-34:21
+  
 1.  Introductory discussion
 
     -   Invite discussion about what constitutes a computer, what computers do, and what computer science is.
