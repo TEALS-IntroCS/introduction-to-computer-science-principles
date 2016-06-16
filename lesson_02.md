@@ -34,7 +34,7 @@ Needed for this lesson:
     -   SOPA & PIPA: 0:00-1:00
     -   3D Computer Graphics Explanation: 1:00-5:24
     -   3D Graphics steps outlined: 5:25-5:50
-    -   Modelling (Useful for Lab 2.6): 5:50-11:40
+    -   Modelling (Useful for Lab 2.5): 5:50-11:40
     -   Animation (Uncanny Valley Explanation): 11:40-16:55
     -   Procedural Based Motion (Lab 1.1): 16:56-20:00
     -   Genetic Algorithms: 20:05-25:25
