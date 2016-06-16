@@ -30,6 +30,8 @@ Needed for this lesson:
 
 ## Instructor's Notes
 
+* 
+
 1.  Introductory discussion
 
     -   Invite discussion about what constitutes a computer, what computers do, and what computer science is.
