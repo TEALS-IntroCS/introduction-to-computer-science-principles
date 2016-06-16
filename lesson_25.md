@@ -22,6 +22,9 @@ Students will be able to...
 
 ## Instructor's Notes
 
+ * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](https://www.youtube.com/watch?v=q2UMQaoW30U)
+    -   Modelling: 5:50-10:57
+    -   
 1.  Review and lecture
     1.  Review loops and conditionals
         -   Ask students what loops do, when they are useful, and what loops exist in SNAP
