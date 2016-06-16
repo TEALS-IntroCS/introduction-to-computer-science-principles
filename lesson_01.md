@@ -27,6 +27,12 @@ Students will be able to...
 
 ## Instructor's Notes
 
+-   BJC Video Suggestion:[BJC Lecture 1: Abstraction](https://www.youtube.com/watch?v=Dxw9cIbzaLk)
+    -   Basic concepts of the course: 0:00-7:00
+    -   Introduction of Piazza: 7:00-8:25
+    -   Abstraction: 11:40-15:40
+    -   Generalization: 15:50-20:00
+    -   Summary: 20:05-25:10
 -   Utilize the plan developed with your teaching team for the first day of school.
     -   The pacing guide above is a very broad suggestion.  You should adapt (or ignore) as necessary to fit your team's plan.
 -   Suggested topics to cover:
