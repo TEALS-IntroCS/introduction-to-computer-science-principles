@@ -33,7 +33,13 @@ Students will be able to...
 
 ## Instructor's Notes
 
-1.  Review/Introduction
+1.   BJC Video Suggestion: BJC Lecture 3: Video Games
+    -   History of Video Games Overview (Platform Game Prep) 2:30-7:55
+    -   Motion Capture (Hero Movement for Platform Game Lab 2.6) 15:25-17:30
+    -   Artificial Intelligence (Enemy Logic for Platform Game Lab 2.6) 17:30-19:40
+    -   Glenn Sugden-Game Developer (History of VG Development & Industry) 28:03-40:53
+    -   
+ 1.  Review/Introduction
     -   Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
         -   Basic loops
         -   Nested loops
