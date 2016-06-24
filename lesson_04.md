@@ -19,6 +19,10 @@ Students will be able to...
 
 ## Instructor's Notes
 
+*    BJC Video Suggestion: BJC Lecture 4: Functions 
+  *    Types of Blocks 18:15-19:45
+
+
 1. Introduce Activity
     * Tell students that today they will explore SNAP and use it to create a "self-portrait" program.
         * Emphasize that the goal of today's lesson is **_not_** for students to develop a deep understanding of any of the features in SNAP.  Later lessons will teach them everything they need to know.  For now, they should just explore, figure out what they can, and put it to use however they see fit.
