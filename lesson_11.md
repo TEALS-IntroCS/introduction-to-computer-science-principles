@@ -37,7 +37,7 @@ Students will be able to...
 
  * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](https://www.youtube.com/watch?v=q2UMQaoW30U)
     -   Procedural Based Motion (Lab 1.1): 16:56-20:00
-    -   
+       
 1.  Day 1
 
     1.  Introductory discussion
