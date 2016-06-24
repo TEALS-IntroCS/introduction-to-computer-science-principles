@@ -33,7 +33,12 @@ Students will be able to...
   *    Types of Input (Sentences, words, characters, digits) 6:12-8:00
   *    Functions (Explanations of Use-can be tied in to loops, and inputs) 8:00-9:55
   *    MIT Scratch --> BYOB SNAP ( Development of SNAP, DEMO) 10:00-11:30
-  *    
+  *    Functions-1 (BYOB-Custom Blocks) & Generalization 11:30-14:50
+  *    Functions-2 (Join Block) Domain and Range 14:52-17:50
+  *    Types of Blocks 18:15-19:45
+  *    Recursion Preview 19:50-27:40
+  *    Functional Programming Summary 27:40- End
+    *    Big concepts narrow down to functions
  
 
 
