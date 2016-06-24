@@ -38,8 +38,6 @@ Students will be able to...
   *    BYOB-Custom Blocks 11:30-14:50
     *    Explains functions with examples. 
     
-   
-
   
 1.  Introductory discussion
     -   Ask students to review (or recreate) their algorithms for preparing a peanut butter and jelly sandwich (from lesson 0.2)
