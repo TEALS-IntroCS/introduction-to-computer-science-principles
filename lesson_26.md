@@ -33,12 +33,18 @@ Students will be able to...
 
 ## Instructor's Notes
 
-1.   BJC Video Suggestion: BJC Lecture 3: Video Games
+   BJC Video Suggestion: BJC Lecture 3: Video Games
+    -   Demystification Lecture-Novel Interaction techniques(emotive systems) 00:00-2:30
     -   History of Video Games Overview (Platform Game Prep) 2:30-7:55
+    -   Casual Video Game World (light weight) 8:00-10:40
+    -   Core Video Game (heavy weight) 10:45-13:05
+    -   3D Computer Graphics 13:10-15:20
     -   Motion Capture (Hero Movement for Platform Game Lab 2.6) 15:25-17:30
-    -   Artificial Intelligence (Enemy Logic for Platform Game Lab 2.6) 17:30-19:40
+    -   Artificial Intelligence (Enemy Logic for Lab 2.6) 17:30-19:40
+    -   Video Games w/purpose (social benefits) 19:40-24:36
+    -   Negative Aspects of Video Games (RSI, addition, violence) 24:40-28:00
     -   Glenn Sugden-Game Developer (History of VG Development & Industry) 28:03-40:53
-    -   
+    
  1.  Review/Introduction
     -   Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
         -   Basic loops
