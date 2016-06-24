@@ -25,6 +25,11 @@ Students will be able to...
 
 ## Instructor's Notes
 
+*    BJC Video Suggestion: BJC Lecture 4: Functions 
+  *    Why use functions-2 
+    *    How to use the join block with multiple inputs 14:52-17:50
+    
+    
 1.	Lecture and Demonstration
 	-	Review with students the concepts of abstraction, generalization, and detail removal
 		-	Ask students to provide definitions and examples of each
