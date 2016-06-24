@@ -26,7 +26,16 @@ Students will be able to...
 ## Instructor's Notes
 
 
+*    BJC Video Suggestion: BJC Lecture 4: Functions 
+  *    SIRI-EVI 0:00-1:00
+  *    Functions & Generaliztions (Function Basics) 1:00-3:45
+  *    More Terminology (from Math) *Boolean etc* 3:47-6:10
+  *    Types of Input (Sentences, words, characters, digits) 6:12-8:00
+  *    Functions (Explanations of Use-can be tied in to loops, and inputs) 8:00-9:55
+  *    MIT Scratch --> BYOB SNAP ( Development of SNAP, DEMO) 10:00-11:30
+  *    
  
+
 
 1.  Lecture
     1.  Introduce and discuss concepts of code redundancy and readability
