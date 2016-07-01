@@ -30,18 +30,21 @@ Needed for this lesson:
 
 ## Instructor's Notes
 
-*  BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](https://www.youtube.com/watch?v=q2UMQaoW30U)
-    -   SOPA & PIPA: 0:00-1:00
-    -   3D Computer Graphics Explanation: 1:00-5:24
-    -   3D Graphics steps outlined: 5:25-5:50
-    -   Modelling (Useful for Lab 2.5): 5:50-11:40
-    -   Animation (Uncanny Valley Explanation): 11:40-16:55
-    -   Procedural Based Motion (Lab 1.1): 16:56-20:00
-    -   Genetic Algorithms: 20:05-25:25
-    -   Lighting and Shading: 25:25-27:10
-    -   Rendering: 27:10- 30:55
-    -   Global Illumination: 30:55-34:21
-  
+*  BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
+    -     Computer Worms 0:00-1:30
+    -     Algorithm Concept Intro: Rubic Cube Competition 1:40-2:40
+    -     Algorithm Definition 3:20-4:20 *Good for Classroom Instruction
+    -     Early Algorithms 4:25-5:55 *Good for Classroom Instruction
+    -     Familiar Algorithm 6:00-7:30 *Good for Classroom Instruction
+    -     Commonly Used Algorithms (Page Rank, etc.) 8:00-10:45
+    -     Choosing an Algorithm Technique 10:50-12:15
+    -     Ways to Tackle Problems (Brute Force, Top Down, Bottom Up) 12:20-15:30
+    -     Algorithms vs Functions and Procedures 15:30-16:00
+    -     Turing Completeness (Computer Theory-BYOB is Turing Complete) 16:05-21:15
+    -     Algorithm Correctness 21:25-26:00
+    -     Algorithm Summary 26:00-end
+    
+    
 1.  Introductory discussion
 
     -   Invite discussion about what constitutes a computer, what computers do, and what computer science is.
