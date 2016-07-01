@@ -22,7 +22,7 @@ Students will be able to...
 
 ## Instructor's Notes
 
- * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](https://www.youtube.com/watch?v=q2UMQaoW30U)
+ * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=5m50s)
     -   Modelling: 5:50-10:57
     -   
 1.  Review and lecture
