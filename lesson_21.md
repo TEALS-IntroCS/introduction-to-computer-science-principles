@@ -26,7 +26,7 @@ Students will be able to...
 ## Instructor's Notes
 
 
-*    BJC Video Suggestion: BJC Lecture 4: Functions 
+*    BJC Video Suggestion: [BJC Lecture 4](https://www.youtube.com/watch?v=_uKCBmQEf5w): Functions 
   *    SIRI-EVI 0:00-1:00
   *    Functions & Generaliztions (Function Basics) 1:00-3:45
   *    More Terminology (from Math) *Boolean etc* 3:47-6:10
