@@ -19,7 +19,7 @@ Students will be able to...
 
 ## Instructor's Notes
 
-*    BJC Video Suggestion: BJC Lecture 4: Functions 
+*    BJC Video Suggestion: [BJC Lecture 4: Functions ](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=18m15s)
   *    Types of Blocks 18:15-19:45
 
 
