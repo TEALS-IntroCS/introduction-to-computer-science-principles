@@ -35,7 +35,7 @@ Students will be able to...
 
 ## Instructor's Notes
 
- * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](https://www.youtube.com/watch?v=q2UMQaoW30U)
+ * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](http://www.youtube.com/watch?v=q2UMQaoW30U&t=16m50s)
     -   Procedural Based Motion (Lab 1.1): 16:56-20:00
        
 1.  Day 1
