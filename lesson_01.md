@@ -33,7 +33,21 @@ Students will be able to...
     -   Abstraction: 11:40-15:40
     -   Generalization: 15:50-20:00
     -   Summary: 20:05-25:10
-    -   
+
+
+* BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](https://www.youtube.com/watch?v=q2UMQaoW30U)
+    -   SOPA & PIPA: 0:00-1:00
+    -   3D Computer Graphics Explanation: 1:00-5:24
+    -   3D Graphics steps outlined: 5:25-5:50
+    -   Modelling (Useful for Lab 2.5): 5:50-11:40
+    -   Animation (Uncanny Valley Explanation): 11:40-16:55
+    -   Procedural Based Motion (Lab 1.1): 16:56-20:00
+    -   Genetic Algorithms: 20:05-25:25
+    -   Lighting and Shading: 25:25-27:10
+    -   Rendering: 27:10- 30:55
+    -   Global Illumination: 30:55-34:21
+
+      
 -   Utilize the plan developed with your teaching team for the first day of school.
     -   The pacing guide above is a very broad suggestion.  You should adapt (or ignore) as necessary to fit your team's plan.
 -   Suggested topics to cover:
