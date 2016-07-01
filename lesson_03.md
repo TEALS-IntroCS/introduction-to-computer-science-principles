@@ -28,6 +28,20 @@ Students will be able to...
 
 ## Instructor's Notes
 
+
+*  BJC Video Suggestion: [BJC Lecture 5: Algorithm](https://www.youtube.com/watch?v=_4ScHcLvQnw) 
+    -     Dilemma of Being a Cyborg 0:00-2:30
+    -     Programming Paradigms 2:30-3:50
+    -     Snap! BYOB (Hybrid) 3:55-4:45 
+    -     Functional Programming (Cascading Values) 4:50-5:35 
+    -     Imperative/Sequential 5:41-8:35 
+    -     Object Oriented Programming (OOP Basic Explanation) 8:40-15:45
+    -     OOP Ex: Sketch Pad Dr. Ivan Sutherland "Father of Computer Graphics *Good for Classroom Instruction 15:45-22:10
+    -     OOP in BYOB (Demo of Functions in BYOB) 22:35-29:20
+    -     Declarative Programming 29-22-31:20
+    -     Declarative Programming Examples in BYOB 31:25-35:20
+    -     Review of Paradigms 35:25-end
+    
 1.  Introductory discussion
     -   Introduce students to the concept of a "computer program."
         -   _computer program: a sequence of instructions or steps, written in a language that can be understood by a computer, that will be used by the computer to complete a task or solve a problem_
