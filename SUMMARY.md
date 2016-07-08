@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Curriculum Map](curriculum_map.md)
 * [Unit 0: Beginnings](unit_0.md)
-   * [Lesson 0.0](Lesson 0.0)
+   * [lesson_0.0.md](Lesson 0.0)
    * [Lesson 0.1: The First Day](lesson_01.md)
    * [Lesson 0.2: Algorithms](lesson_02.md)
    * [Lesson 0.3: Programming Languages](lesson_03.md)
