@@ -8,6 +8,7 @@
    * [Lesson 0.3: Programming Languages](lesson_03.md)
    * [Lesson 0.4: SNAP Self-Portrait](lesson_04.md)
    * [Lab 0.4: Getting to Know You](lab_04.md)
+   * Lesson 0.0
 * [Unit 1: SNAP Basics](unit_1.md)
    * [Lesson 1.1: Welcome to SNAP](lesson_11.md)
    * [Lab 1.1: Welcome to SNAP!](lab_11.md)
