@@ -33,9 +33,9 @@ Needed for this lesson:
 *  BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
     -     Computer Worms 0:00-1:30
     -     Algorithm Concept Intro: Rubic Cube Competition 1:40-2:40
-    -     Algorithm Definition 3:20-4:20 *Good for Classroom Instruction
-    -     Early Algorithms 4:25-5:55 *Good for Classroom Instruction
-    -     Familiar Algorithm 6:00-7:30 *Good for Classroom Instruction
+    -     Algorithm Definition 3:20-4:20 **Good for Classroom Instruction**
+    -     Early Algorithms 4:25-5:55 **Good for Classroom Instruction**
+    -     Familiar Algorithm 6:00-7:30 **Good for Classroom Instruction**
     -     Commonly Used Algorithms (Page Rank, etc.) 8:00-10:45
     -     Choosing an Algorithm Technique 10:50-12:15
     -     Ways to Tackle Problems (Brute Force, Top Down, Bottom Up) 12:20-15:30
@@ -59,8 +59,7 @@ Needed for this lesson:
 	- 	Run Time: Final Assessment 13:20-16:46
 	- 	Example:Finding a student by ID (detailed explanation of input/output) 
 17:00-31:20
-	- 	Ex: Finding a shared birthday (1. Constant 2. Logarithmic 3. Linear 4. Quadratic 
-5. Exponential) 31:21-33:30
+	- 	Ex: Finding a shared birthday (Constant, Logarithmic, Linear, Quadratic, Exponential) 31:21-33:30
 	- 	Ex: Finding Subsets 33:40 to End
     
     
