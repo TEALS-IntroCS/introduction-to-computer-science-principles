@@ -43,6 +43,25 @@ Needed for this lesson:
     -     Turing Completeness (Computer Theory-BYOB is Turing Complete) 16:05-21:15
     -     Algorithm Correctness 21:25-26:00
     -     Algorithm Summary 26:00-end
+
+
+*  BJC Video Suggestion: [BJC Lecture 7: Algorithm Complexity](https://www.youtube.com/watch?v=_fgtTE2bhMg) 
+	- 	Yahoo predicts America’s Political Winner 0:00-1:25
+	- 	Function Abstraction (Explanation of Functions and Algorithms) 1:28-2:45
+	- 	What is IN a Spec 2:45-3:30
+	- 	What is NOT in a Spec 3:30-5:15
+	- 	Reference Text “Introduction to Algorithms” 5:18
+	- 	Algorithm Analysis: The Basics** Good for Classroom Instruction 6:00-7:40***
+	- 	Algorithm Analysis: Running Time** Good for Classroom Instruction 7:41-8:25**
+	- 	Algorithm Analysis: Runtime Analysis Problem and Solution 8:25-9:55
+	- 	Runtime Analysis: Input Size and Efficiency 9:58-11:25
+	- 	Runtime Analysis: Worst of Avg Case 11:25-13:20
+	- 	Run Time: Final Assessment 13:20-16:46
+	- 	Example:Finding a student by ID (detailed explanation of input/output) 
+17:00-31:20
+	- 	Ex: Finding a shared birthday (1. Constant 2. Logarithmic 3. Linear 4. Quadratic 
+5. Exponential) 31:21-33:30
+	- 	Ex: Finding Subsets 33:40 to End
     
     
 1.  Introductory discussion
