@@ -7,7 +7,7 @@ Dan Garcia of UC Berkeley presents the Beauty and Joy of Computing
 ## About the Lectures
 
 ### Use
-These lecture Videos are licensed under a Creative Commons License by UC Berkeley. They provide a wealth of knowledge, some are applicable in the classroom in their entirety, some in part. It is notated if the lecture is useful for classroom instruction.  The lectures that are directly relevant to lessons or labs are directly referenced in the "Instructor's Notes". The lectures are mapped out below by lecture, subject and time in their entirety.   
+These lecture videos are licensed under a Creative Commons License by UC Berkeley. They provide a wealth of knowledge, some are applicable in the classroom in their entirety, some in part. It is notated if the lecture is useful for classroom instruction.  The lectures that are directly relevant to lessons or labs are directly referenced in the "Instructor's Notes". The lectures are mapped out below by lecture, subject and time in their entirety.   
 
 -   [BJC Lecture 1: Abstraction](https://www.youtube.com/watch?v=Dxw9cIbzaLk)
 	-   Basic concepts of the course: 0:00-7:00
