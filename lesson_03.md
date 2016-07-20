@@ -36,7 +36,7 @@ Students will be able to...
     -     Functional Programming (Cascading Values) 4:50-5:35 
     -     Imperative/Sequential 5:41-8:35 
     -     Object Oriented Programming (OOP Basic Explanation) 8:40-15:45
-    -     OOP Ex: Sketch Pad Dr. Ivan Sutherland "Father of Computer Graphics *Good for Classroom Instruction 15:45-22:10
+    -     [OOP Ex: Sketch Pad Dr. Ivan Sutherland](http://www.youtube.com/watch?v=_4ScHcLvQnw&t=15m45s) "Father of Computer Graphics *Good for Classroom Instruction 15:45-22:10
     -     OOP in BYOB (Demo of Functions in BYOB) 22:35-29:20
     -     Declarative Programming 29-22-31:20
     -     Declarative Programming Examples in BYOB 31:25-35:20
