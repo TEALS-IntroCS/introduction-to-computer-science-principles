@@ -65,7 +65,7 @@ These lecture videos are licensed under a Creative Commons License by UC Berkele
 	- 	Functional Programming (Cascading Values) 4:50-5:35
 	- 	Imperative/Sequential 5:41-8:35
 	- 	Object Oriented Programming (OOP Basic Explanation) 8:40-15:45
-	- 	OOP Ex: Sketch Pad Dr. Ivan Sutherland "Father of Computer Graphics *Good for Classroom Instruction 15:45-22:10
+	- 	[OOP Ex: Sketch Pad Dr. Ivan Sutherland](http://www.youtube.com/watch?v=_4ScHcLvQnw&t=15m45s) "Father of Computer Graphics *Good for Classroom Instruction 15:45-22:10
 	- 	OOP in BYOB (Demo of Functions in BYOB) 22:35-29:20
 	- 	Declarative Programming 29-22-31:20
 	- 	Declarative Programming Examples in BYOB 31:25-35:20
@@ -75,9 +75,9 @@ These lecture videos are licensed under a Creative Commons License by UC Berkele
 *  [BJC Lecture 6: Algorithms](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segars)
 	- 	Computer Worms 0:00-1:30
 	- 	Algorithm Concept Intro: Rubic Cube Competition 1:40-2:40
-	- 	Algorithm Definition 3:20-4:20 *Good for Classroom Instruction
-	- 	Early Algorithms 4:25-5:55 *Good for Classroom Instruction
-	- 	Familiar Algorithm 6:00-7:30 *Good for Classroom Instruction
+	- 	[Algorithm Definition](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=3m20s) 3:20-4:20 *Good for Classroom Instruction
+	- 	[Early Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=4m25s) 4:25-5:55 *Good for Classroom Instruction
+	- 	[Familiar Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=6m00s) 6:00-7:30 *Good for Classroom Instruction
 	- 	Commonly Used Algorithms (Page Rank, etc.) 8:00-10:45
 	- 	Choosing an Algorithm Technique 10:50-12:15
 	- 	Ways to Tackle Problems (Brute Force, Top Down, Bottom Up) 12:20-15:30
@@ -94,8 +94,8 @@ These lecture videos are licensed under a Creative Commons License by UC Berkele
 	- 	What is IN a Spec 2:45-3:30
 	- 	What is NOT in a Spec 3:30-5:15
 	- 	Reference Text “Introduction to Algorithms” 5:18
-	- 	Algorithm Analysis: The Basics * Good for Classroom Instruction 6:00-7:40
-	- 	Algorithm Analysis: Running Time *Good for Classroom Instruction 7:41-8:25
+	- 	[Algorithm Analysis: The Basics](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=6m0s) * Good for Classroom Instruction 6:00-7:40
+	- 	[Algorithm Analysis: Running Time](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=7m41s) *Good for Classroom Instruction 7:41-8:25
 	- 	Algorithm Analysis: Runtime Analysis Problem and Solution 8:25-9:55
 	- 	Runtime Analysis: Input Size and Efficiency 9:58-11:25
 	- 	Runtime Analysis: Worst of Avg Case 11:25-13:20
