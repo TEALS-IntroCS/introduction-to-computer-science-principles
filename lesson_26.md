@@ -33,17 +33,17 @@ Students will be able to...
 
 ## Instructor's Notes
 
-  *  BJC Video Suggestion:[ BJC Lecture 3](https://www.youtube.com/watch?v=hdSFuhyGTIg): Video Games
-    -   Demystification Lecture-Novel Interaction techniques(emotive systems) 00:00-2:30
-    -   History of Video Games Overview (Platform Game Prep) 2:30-7:55 **Good for Classroom Instruction**
-    -   Casual Video Game World (light weight) 8:00-10:40 **Good for Classroom Instruction**
-    -   Core Video Game (heavy weight) 10:45-13:05 **Good for Classroom Instruction**
-    -   3D Computer Graphics 13:10-15:20
-    -   Motion Capture (Hero Movement for Platform Game Lab 2.6) 15:25-17:30 **Good for Classroom Instruction**
-    -   Artificial Intelligence (Enemy Logic for Lab 2.6) 17:30-19:40
-    -   Video Games w/purpose (social benefits) 19:40-24:36 **Good for Classroom Instruction**
-    -   Negative Aspects of Video Games (RSI, addition, violence) 24:40-28:00 **Good for Classroom Instruction**
-    -   Glenn Sugden-Game Developer (History of VG Development & Industry) 28:03-40:53 **Good for Classroom Instruction**
+   *  [ BJC Lecture 3: Video Games](https://www.youtube.com/watch?v=hdSFuhyGTIg)
+	-   Demystification Lecture-Novel Interaction techniques(emotive systems) 00:00-2:30
+	-   [History of Video Games Overview](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=2m30s) (Platform Game Prep) 2:30-7:55 *Good for Classroom Instruction
+	-   [Casual Video Game World ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=8m0s)(light weight) 8:00-10:40 *Good for Classroom Instruction
+	-   [Core Video Game](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=10m45s) (heavy weight) 10:45-13:05 *Good for Classroom Instruction
+	-   3D Computer Graphics 13:10-15:20
+	-   [Motion Capture ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=15m25s)(Hero Movement for Platform Game Lab 2.6) 15:25-17:30 *Good for Classroom Instruction
+	-   Artificial Intelligence (Enemy Logic for Lab 2.6) 17:30-19:40
+	-   [Video Games w/purpose](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=19m40s) (social benefits) 19:40-24:36 *Good for Classroom Instruction
+	-   [Negative Aspects of Video Games ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=19m40s)(RSI, addition, violence) 24:40-28:00 *Good for Classroom Instruction
+	-   [Glenn Sugden-Game Developer ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=28m03s)(History of VG Development & Industry) 28:03-40:53 *Good for Classroom Instruction
 
     
  1.  Review/Introduction
