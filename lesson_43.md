@@ -33,6 +33,8 @@ Students will be able to...
 	- 	Examples of Recursion (You Already Know It!) 24:30-26:20
 	- 	Trust the Recursion 26:22-29:40
 	- 	Summary of Recursion 29:40-End
+
+
 1.  Lecture
 
     1.  In small groups, ask students to consider how to count the number of students with July birthdays in the room
