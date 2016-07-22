@@ -22,6 +22,18 @@ Students will be able to...
 
 ## Instructor's Notes
 
+* [BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
+ - Movie “Inception” as an example of recursion 0:00-0:50
+ - Recursion 0:50-1:40
+ - Recursion Demo in Snap 1:40-17:00
+ - Overview 17:00-21:00
+ - Definition of Recursion 21:00-24:30
+ - Examples of Recursion (You Already Know It!) 24:30-26:20
+ - Trust the Recursion 26:22-29:40
+ - Summary of Recursion 29:40-End
+
+
+
 1.  Lecture
     1.  Introduce reporter blocks
         -   Ask students to find blocks with the reporter shape (round) and speculate as to what they do
