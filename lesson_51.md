@@ -23,6 +23,18 @@ Students will be able to...
 
 ## Instructor's Notes
 
+
+* [BJC Lecture 11:Recursion II Alijia Yan](https://www.youtube.com/watch?v=w2d_snYBLeY&index=11&list=PLA4F0F0CA4A3EE7F4)
+ - Mobile World Congress 0:00-2:15
+ - Recursion:Factorials (Factorial (n)+ n! 2:30-7:40
+ - Fibonacci and Fibonacci Series Video 7:45-11:45 * Good for Classroom Instruction
+(http://www.youtube.com/watch?v=w2d_snYBLeY&t=7m45s)
+ - Fibonacci Ex: fin(n) Math and SNAP blocks 11:50-13:15
+ - Example of Recursion: Counting Change 13:20-17:30
+ - Call Tree for “Counting Change” with SNAP example 17:35-22:50
+ - Summary of Recursion 25:40-26:21
+
+
 1. Introduce activity
     * Inform students that they will be drawing some figures by following specific instructions
     * Emphasize that students must follow all instructions in the lab carefully
