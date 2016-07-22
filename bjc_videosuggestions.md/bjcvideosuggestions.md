@@ -137,7 +137,7 @@ These lecture videos are licensed under a Creative Commons License by UC Berkele
 	- 	Summary of Recursion 29:40-End
 	
 
-*  [BJC Lecture 10: Social Implications of Computing](https://www.youtube.com/watch?v=Rng91dxdsuM) 
+*  [BJC Lecture 10: Social Implications of Computing](https://www.youtube.com/watch?v=Rng91dxdsuM) <!--Add to culture day--> 
 	- 	META: Computers in Education (Implications of Multiple Choice Tests)  0:00-4:30
 	- 	Computers in Education (Open?) Judah Schwartz 4:31 --
 	- 		Tools 4:50-5:30
