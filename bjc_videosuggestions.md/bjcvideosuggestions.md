@@ -146,6 +146,8 @@ These lecture videos are licensed under a Creative Commons License by UC Berkele
 	- 	Courseware 10:38-11:30
 	- 	RSA Animate: Changing Educational Paradigms 11:35
 	- 	Animation Begins (Sir Ken Robinson: Changing Paradigms) 12:30-24:25
+
+
 * [BJC Lecture 11:Recursion II Alijia Yan](https://www.youtube.com/watch?v=w2d_snYBLeY&index=11&list=PLA4F0F0CA4A3EE7F4)
  - Mobile World Congress 0:00-2:15
  - Recursion:Factorials (Factorial (n)+ n! 2:30-7:40
@@ -157,7 +159,7 @@ These lecture videos are licensed under a Creative Commons License by UC Berkele
  - Summary of Recursion 25:40-26:21
 
 
-* [BJC Lecture 11:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg) **Good for Classroom Instruction-Suggest Previewing due to Social Media Examples.**
+* [BJC Lecture 12:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg) **Good for Classroom Instruction-Suggest Previewing due to Social Media Examples.**
  - Dr. Gerald Friedland Sr. Research Scientist at International Computer Science Institute (ICSI) on Sharing Multimedia and the Impact on Online Privacy) 0:00-1:45
  - Introduction to Social Media: The Price of Social Media Use-Stephen Colbert 1:50-6:25
  - Observations on Sharing Data and Ineffective Privacy Protection 6:30-7:50
