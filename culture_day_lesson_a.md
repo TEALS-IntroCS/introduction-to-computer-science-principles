@@ -36,22 +36,23 @@ Students will be able to...
   * RSA Animate: Changing Educational Paradigms 11:35
   * Animation Begins \(Sir Ken Robinson: Changing Paradigms\) 12:30-24:25
 
-* [BJC Lecture 12:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg) *Good for Classroom Instruction-Suggest Previewing due to Social Media Examples.
- - Dr. Gerald Friedland Sr. Research Scientist at International Computer Science Institute (ICSI) on Sharing Multimedia and the Impact on Online Privacy) 0:00-1:45
- - Introduction to Social Media: The Price of Social Media Use-Stephen Colbert 1:50-6:25
- - Observations on Sharing Data and Ineffective Privacy Protection 6:30-7:50
- - Social Cause: Collection of Data Across Sites 7:50-10:30
- - Multimedia in Internet is Growing 10:35-12:05
- - CS Problem: Higher Demand for Retrieval and Organization of Data 12:07-13:05
- - Manual Tagging & Geo Tagging 13:05-17:30
- - Issue of Tracking & Dangers of Oversharing 17:30-18:31
- - Berkeley Multimedia Location Estomation Project http://multimedia.icsi.berkeley.edu/multimodal-location-estimation/
-18:31---
- - ICSI’s Evaluation Results 19:49
- - YouTube Cybercasing 20:47
- - Privacy Implication of Internet and Data 22: 30-25:40
- - Person Linking Using Internet Videos 25:45-26:45
- - Solutions for Privacy that Don’t Work: Think Before You Post! 26:45-28:14
+* [BJC Lecture 12:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg) \*Good for Classroom Instruction-Suggest Previewing due to Social Media Examples.
+
+  * Dr. Gerald Friedland Sr. Research Scientist at International Computer Science Institute \(ICSI\) on Sharing Multimedia and the Impact on Online Privacy\) 0:00-1:45
+  * Introduction to Social Media: The Price of Social Media Use-Stephen Colbert 1:50-6:25
+  * Observations on Sharing Data and Ineffective Privacy Protection 6:30-7:50
+  * Social Cause: Collection of Data Across Sites 7:50-10:30
+  * Multimedia in Internet is Growing 10:35-12:05
+  * CS Problem: Higher Demand for Retrieval and Organization of Data 12:07-13:05
+  * Manual Tagging & Geo Tagging 13:05-17:30
+  * Issue of Tracking & Dangers of Oversharing 17:30-18:31
+  * Berkeley Multimedia Location Estomation Project [http:\/\/multimedia.icsi.berkeley.edu\/multimodal-location-estimation\/](http://multimedia.icsi.berkeley.edu/multimodal-location-estimation/)
+    18:31---
+  * ICSI’s Evaluation Results 19:49
+  * YouTube Cybercasing 20:47
+  * Privacy Implication of Internet and Data 22: 30-25:40
+  * Person Linking Using Internet Videos 25:45-26:45
+  * Solutions for Privacy that Don’t Work: Think Before You Post! 26:45-28:14
 
 
 * Introduction to topic
@@ -71,7 +72,7 @@ Students will be able to...
 
 
 
-1. Video\/Reading
+1.  Video\/Reading
   * Students watch the video\/read the reading
     * Remind students to consider the guiding questions when watching\/reading
     * Students may take notes if desired, but should give their full attention to the material
@@ -96,6 +97,7 @@ Students will be able to...
     * a ["think-pair-share"](http://www.readingrockets.org/strategies/think-pair-share) activity
 
     * a structured activity to simulate or recreate something discussed in the material to allow students to gain a deeper appreciation of the topic
+
       * as an example, after a reading or video on computer security, students could play \(or at least read about and consider\) the game [\_Control-Alt-Hack](http://www.controlalthack.com/)
 
 
