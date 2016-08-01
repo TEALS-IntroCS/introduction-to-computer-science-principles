@@ -177,7 +177,9 @@ These lecture videos are licensed under a Creative Commons License by UC Berkele
      - Solutions for Privacy that Don’t Work: Think Before You Post! 26:45-28:14
 
 
-* [BJC Lecture 13: Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
+* BJC Lecture 13 is Missing
+
+* [BJC Lecture 14: Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
  - Bjorn Hartman Background 0:00-3:30
  - Human Computer Interface(HCI) 3:45-6:00
  - HCI: Design, Computer Science, Applied Psychology 6:00-8:00
