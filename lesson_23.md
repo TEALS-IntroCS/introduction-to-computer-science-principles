@@ -31,6 +31,25 @@ _Note: This lesson may cover too much material for some classes to handle in one
 
 ##Instructor's Notes
 
+
+
+* [BJC Lecture 13: Mislababled as 14) Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
+ - Bjorn Hartman Background 0:00-3:30
+ - Human Computer Interface(HCI) 3:45-6:00
+ - HCI: Design, Computer Science, Applied Psychology 6:00-8:00
+ - Iterative Design Cycle 8:00-10:30
+ - Understanding Users 10:35-11:35
+ - Prototype Interface Examples 11:40-14:00
+ - Evaluation (Formative, Summative) 14:50
+ - Why Study User Interfaces *Good for Classroom Instruction*
+ Ex:Mouse Xy axis, Sketchpad, PC, Tablets 15:00-25:00
+ - What had changed? Research: Mainframe to Ubiquitous Computing 25:00-29:30
+- Example Project: Using Dexterity for Computer Interface Video 28:30-29:30 *Good for Classroom Instruction
+ - Zipf/Power Law Distribution 30:00-32:00
+ - HCI Research at Berkeley 32:10-46:25
+ - Multi Touch Apps and Toolkits *Useful for Classroom Instruction*
+
+
 1.  Lecture
 
     1.  Point out that, so far, our programs have had minimal interactivity
