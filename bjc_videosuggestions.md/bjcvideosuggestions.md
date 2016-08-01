@@ -176,3 +176,85 @@ These lecture videos are licensed under a Creative Commons License by UC Berkele
      - Person Linking Using Internet Videos 25:45-26:45
      - Solutions for Privacy that Don’t Work: Think Before You Post! 26:45-28:14
 
+
+* [BJC Lecture 13: Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
+ - Bjorn Hartman Background 0:00-3:30
+ - Human Computer Interface(HCI) 3:45-6:00
+ - HCI: Design, Computer Science, Applied Psychology 6:00-8:00
+ - Iterative Design Cycle 8:00-10:30
+ - Understanding Users 10:35-11:35
+ - Prototype Interface Examples 11:40-14:00
+ - Evaluation (Formative, Summative) 14:50
+ - Why Study User Interfaces *Good for Classroom Instruction*
+ Ex:Mouse Xy axis, Sketchpad, PC, Tablets 15:00-25:00
+ - What had changed? Research: Mainframe to Ubiquitous Computing 25:00-29:30
+- Example Project: Using Dexterity for Computer Interface Video 28:30-29:30 *Good for Classroom Instruction
+ - Zipf/Power Law Distribution 30:00-32:00
+ - HCI Research at Berkeley 32:10-46:25
+ - Multi Touch Apps and Toolkits **Useful for Classroom Instruction**
+
+
+* [BJC Lecture 15:) Artificial Intelligence- Anna Rafferty](https://www.youtube.com/watch?v=_xcGWx3eDnw)
+ -Anna Rafferty 0:00-1:00
+ - Definition of AI 1:00-1:48
+ - John McCarthy AI definition 1:50-2:30
+ - AI History and Explanation 2:35-6:40
+ - Revival of AI: Rules & Concepts 6:45-10:20
+ - AI and Intelligence (What intelligent things do people do?) 10:25-11:52
+ - Tour of AI applications 11:55-12:30
+ - AI Planning 12:30-14:50
+ - Machine Learning 14:50-18:58
+ - Robot Learning to Walk (Video) 18:58-20:25
+ - Natural Language Processing 20:30-23:15
+ - Unsupervised Learning Ex. 23:20-25:00
+ - Robotics 25:00-30:05
+ - Automatic Towel Folding Robot (video) 27:40-29:45
+ - Recap of AI 30:10-31:15
+ - Turing Test of Intell 31:15-34:15
+ - Summary 34:20-35:53
+
+
+* [BJC Lecture 16:) Computational Game Theory](https://www.youtube.com/watch?v=iATKQQaTKKY)
+ -Checkers (Weakly) Solved 0:00-1:17
+ -Computer Science Game Theory 1:20-1:35
+ -CS- A USV View 1:36-2:16
+ -The Turk (1770) 2:20-4:00
+ -Claude Shannon 1950 “Father of Informational Technology) 4:05-5:10
+ -Deep Blue vs Gary Kasparov 1997
+ -What is “Game Theory” 11:41-12:40
+ -What “Board Game” do you mean? 12:41-13:25
+ -What is a “Strong” Soluntion 13:28-15:00
+ -Game Crafters (Strongly Solve) 15:11-20:15
+ -Strongly Solve Ex. Video “War Games”(1983)16:26-19:41
+ -Weakly Solving a Game (Checkers) 20:20-22:12
+ -Strongly Solving Ex:1,2:...12) 22:20-35:00
+ -Ex: Tic Tac Toe 27:25
+ -Demo 29:20-33:15
+ -Games Crafters Revisited 35:00-35:50
+ -Future Application 35:51-36:47
+
+* [BJC Lecture 17:) Higher Order Functions ](https://www.youtube.com/watch?v=Xr9dYPH3fw4)
+ -Coding is Cool Again 0:00-0:45
+ -High Order Function Introduction 0:47-8:50
+ -Higher Order Function Demo in Snap! BYOB (Functions and Blocks are commented out) 8:51-37:35
+
+
+* [BJC Lecture 18:) Distributed Computing](https://www.youtube.com/watch?v=LkkQy6ivbe4)
+ -0:00-2:25 Super Computers Faster than 50M Laptops
+ -Lecture Overview 2:25-3:00
+ -Memory Hierarchy 3:00-6:00
+ -Memory Hierarchy Details 6:00-10:40
+ -Networking Basics 10:45-12:45
+ -Networking Facts & Benefits 12:45-13:30
+ -Performance Needed for Big Problems 13:30-16:40
+ -What can we do? Use many CPUs 16:41-18:05
+ -Distributed Computing Themes 18:05-21:20
+ -Distributed Computing Challenges 21:25-25:40
+ -Review: Map Reduce 25:41-26:30
+ -Google’s Map Reduce Simplified 26:30-40:52
+
+
+[BJC Lecture 19:) Higher Order Functions II](https://www.youtube.com/watch?v=QsiK8pB7KdQ)
+ -Busting the King’s Gambit (Strongly Solve-Chess) 0:00-2:30
+ -Higher Order Function Review (Filter, Map, Reduce) 2:30-6:30
+ -Snap! BYOB Demo (Commented Out) 6:31-28:19
