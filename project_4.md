@@ -24,9 +24,10 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
 
     5.  **Game End** <br/>
         The game can end in one of two ways:
-            * If the player has guessed the complete secret word, he or she wins.
-            * Otherwise, if the player has run out of chances and the complete Hangman has been drawn, the player loses.<br/>
-            <br/>
+
+        * If the player has guessed the complete secret word, he or she wins.
+        * Otherwise, if the player has run out of chances and the complete Hangman has been drawn, the player loses.
+
         In either case, when the game ends the host should stop asking for guesses.  The host should inform the player whether he or she won or lost, and the assistant should reveal the entire secret word.
 
 2.  **Implementation Details**
@@ -36,14 +37,14 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
 
     2.  **Documentation** <br/>
         In addition to functioning well, your program must be well-documented and readable.  This includes, but is not limited to, things such as:
-            * organizing your scripts so that they can be read and comprehended easily
-            * giving  your sprites meaningful names
-            * naming and using your variables, lists, and custom blocks well
-            * including comments to describe the structure of your program and any particularly complex or unintuitive pieces of code
+        * organizing your scripts so that they can be read and comprehended easily
+        * giving  your sprites meaningful names
+        * naming and using your variables, lists, and custom blocks well
+        * including comments to describe the structure of your program and any particularly complex or unintuitive pieces of code
     3.  **Required Snap! Elements** <br/>
         Your program must include, at a minimum, the following Snap! code elements:
-            * At least two lists, once of which must be used to track guessed letters
-            * Custom blocks as appropriate, including arguments and reporters
+        * At least two lists, once of which must be used to track guessed letters
+        * Custom blocks as appropriate, including arguments and reporters
 
 3.  **Required Checkpoints**
 
