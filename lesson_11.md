@@ -89,11 +89,13 @@ Students will be able to...
         -   If time allows, ask one or two students to demonstrate their programs and describe their code
         -   Remind students of the turn-in procedures discussed yesterday and ensure all students are able to turn in their work
 
-##G
+ ## BJC Lecture Suggestions
+####Good for Classroom Instruction
+
 
 
  * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](http://www.youtube.com/watch?v=q2UMQaoW30U&t=16m50s)
- - [Procedural Based Motion]( http://www.youtube.com/watch?v=q2UMQaoW30U&t=16m50s ) (Lab 1.1): 16:56-20:00
+     - [Procedural Based Motion]( http://www.youtube.com/watch?v=q2UMQaoW30U&t=16m50s ) (Lab 1.1): 16:56-20:00
 
 ## Accommodations/Differentiation
 
