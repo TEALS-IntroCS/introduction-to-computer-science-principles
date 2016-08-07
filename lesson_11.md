@@ -35,9 +35,7 @@ Students will be able to...
 
 ## Instructor's Notes
 
- * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](http://www.youtube.com/watch?v=q2UMQaoW30U&t=16m50s)
-    -   Procedural Based Motion (Lab 1.1): 16:56-20:00
-       
+
 1.  Day 1
 
     1.  Introductory discussion
@@ -90,6 +88,12 @@ Students will be able to...
             -   Ask students how the challenges were similar to or different from those they encountered when playing LightBot in [Lesson 0.2](lesson_02.md)
         -   If time allows, ask one or two students to demonstrate their programs and describe their code
         -   Remind students of the turn-in procedures discussed yesterday and ensure all students are able to turn in their work
+
+##G
+
+
+ * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](http://www.youtube.com/watch?v=q2UMQaoW30U&t=16m50s)
+ - [Procedural Based Motion]( http://www.youtube.com/watch?v=q2UMQaoW30U&t=16m50s ) (Lab 1.1): 16:56-20:00
 
 ## Accommodations/Differentiation
 
