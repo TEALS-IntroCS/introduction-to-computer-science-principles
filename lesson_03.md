@@ -54,7 +54,12 @@ Students will be able to...
         -   Why can instructions not be given in simple English? Why must we be limited to certain operations from which we must build up solutions?
             -   If students seem interested, this can be an opportunity for a brief conversation about the difference between high-level programming languages and machine languages (assembly code).
 
-##
+## BJC Lecture Suggestions 
+####Good for Classroom Instruction
+- [OOP Ex: Sketch Pad Dr. Ivan Sutherland](http://www.youtube.com/watch?v=_4ScHcLvQnw&t=15m45s) "Father of Computer Graphics  15:45-22:10
+ 
+
+####Background Information for Instructors
 * BJC Video Suggestion: [BJC Lecture 5: Algorithm](https://www.youtube.com/watch?v=_4ScHcLvQnw)
  - Dilemma of Being a Cyborg 0:00-2:30
  - Programming Paradigms 2:30-3:50
