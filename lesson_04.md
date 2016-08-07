@@ -39,8 +39,11 @@ Students will be able to...
 
  ## BJC Lecture Suggestions 
 ####Good for Classroom Instruction
- * BJC Video Suggestion: [BJC Lecture 4: Functions ](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=18m15s)
- * Types of Blocks 18:15-19:45
+
+
+
+* BJC Video Suggestion: [BJC Lecture 4: Functions ](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=18m15s)
+    - [Types of Blocks]( http://www.youtube.com/watch?v=_uKCBmQEf5w&t=18m15s)  18:15-19:45
     
 ## Accommodation/Differentiation
 * Allow students to use whatever resources they need, including instructors, peers, and web searches if necessary, to create their programs.  The goal of this lesson is exploration and exposure, not mastery.
