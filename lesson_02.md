@@ -73,7 +73,21 @@ Needed for this lesson:
         -   Keep students from fixating on the specifics of any one error and guide discussion to the general approaches and concepts used to resolve problems.
     -   Have students discuss what lessons can be learned from this activity and how they can be applied to programming and computer science.
 
+## BJC Lecture Suggestions
 
+####Good for Classroom Instruction
+
+* BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
+ - [Algorithm Definition](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=3m20s) 3:20-4:20 
+ - [Early Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=4m25s) 4:25-5:55
+ - [Familiar Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=6m00s) 6:00-7:30
+
+
+* BJC Video Suggestion: [BJC Lecture 7: Algorithm Complexity](https://www.youtube.com/watch?v=_fgtTE2bhMg)
+  - [Algorithm Analysis](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=6m0s): The Basics 6:00-7:40
+ - [Algorithm Analysis:](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=7m41s) Running Time 7:41-8:25
+
+#### Background Information for Instructors
 * BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
  - Computer Worms 0:00-1:30
  - Algorithm Concept Intro: Rubic Cube Competition 1:40-2:40
