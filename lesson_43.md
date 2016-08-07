@@ -24,17 +24,6 @@ Students will be able to...
 
 ## Instructor's Notes
 
-*  BJC Video Suggestion :[BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA) 
-	- 	Movie “Inception” as an example of recursion 0:00-0:50
-	- 	Recursion 0:50-1:40
-	- 	Recursion  Demo in Snap 1:40-17:00
-	- 	Overview 17:00-21:00
-	- 	Definition of Recursion 21:00-24:30
-	- 	Examples of Recursion (You Already Know It!) 24:30-26:20
-	- 	Trust the Recursion 26:22-29:40
-	- 	Summary of Recursion 29:40-End
-
-
 1.  Lecture
 
     1.  In small groups, ask students to consider how to count the number of students with July birthdays in the room
@@ -60,6 +49,20 @@ Students will be able to...
         -   Hopefully the students find that the scripts were quite similar for each part.
     -   Ask students to describe something they found challenging about the lab
     -   You will go over the correct solutions to the lab in the next lesson 
+
+##BJC Lecture Suggestion
+####Background Information for Instructors  
+* BJC Video Suggestion :[BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
+ - Movie “Inception” as an example of recursion 0:00-0:50
+ - Recursion 0:50-1:40
+ - Recursion Demo in Snap 1:40-17:00
+ - Overview 17:00-21:00
+ - Definition of Recursion 21:00-24:30
+ - Examples of Recursion (You Already Know It!) 24:30-26:20
+ - Trust the Recursion 26:22-29:40
+ - Summary of Recursion 29:40-End
+
+
 
 ## Accommodations/Differentiation
 
