@@ -54,8 +54,8 @@ These lecture videos are licensed under a Creative Commons License by UC Berkele
   *	Functions-2 (Join Block) Domain and Range 14:52-17:50
   *	Types of Blocks 18:15-19:45
   *	Recursion Preview 19:50-27:40
-  *	Functional Programming Summary 27:40- End
-    *	Big concepts narrow down to functions
+  *	Functional Programming Summary  (Big concepts narrow down to functions)  27:40- End
+    
  
  
 *  [BJC Lecture 5: Programming Paradigms](https://www.youtube.com/watch?v=_4ScHcLvQnw)
