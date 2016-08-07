@@ -32,12 +32,7 @@ Students will be able to...
 | 10 minutes | Review new algorithms, debrief, wrap-up         |
 
 ## Instructor's Notes
- * BJC Video Suggestion: BJC Lecture 4: Functions 
-  *    MIT Scratch --> BYOB Snap 10:00-11:30
-    *    Snap Demonstration
-  *    BYOB-Custom Blocks 11:30-14:50
-    *    Explains functions with examples. 
-    
+
   
 1.  Introductory discussion
     -   Ask students to review (or recreate) their algorithms for preparing a peanut butter and jelly sandwich (from lesson 0.2)
@@ -74,6 +69,13 @@ Students will be able to...
     -   Ask students how the skills learned in this lesson can be applied to programming
         -   Drive students to realize that code is simply an application of algorithms
         -   Tease the need for custom blocks (procedures)
+
+##BJC Lecture Suggestion
+####Good for Classroom Instruction
+ * BJC Video Suggestion: BJC Lecture 4: Functions
+  - MIT Scratch --> BYOB Snap 10:00-11:30 (Snap Demonstration)
+  - BYOB-Custom Blocks 11:30-14:50(Explains functions with examples)
+
 
 ## Accommodation/Differentiation
 
