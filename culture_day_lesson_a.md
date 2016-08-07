@@ -25,37 +25,8 @@ Students will be able to...
 
 ## Instructor's Notes
 
-* [BJC Lecture 10: Social Implications of Computing](https://www.youtube.com/watch?v=Rng91dxdsuM)
 
-  * META: Computers in Education \(Implications of Multiple Choice Tests\) 0:00-4:30
-  * Computers in Education \(Open?\) Judah Schwartz 4:31 --
-  * Tools 4:50-5:30
-  * Microworld 5:30-6:30
-  * Microworld Example Physics Simulation 6:30-10:30
-  * Courseware 10:38-11:30
-  * RSA Animate: Changing Educational Paradigms 11:35
-  * Animation Begins \(Sir Ken Robinson: Changing Paradigms\) 12:30-24:25
-
-* [BJC Lecture 12:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg) \*Good for Classroom Instruction-Suggest Previewing due to Social Media Examples.
-
-  * Dr. Gerald Friedland Sr. Research Scientist at International Computer Science Institute \(ICSI\) on Sharing Multimedia and the Impact on Online Privacy\) 0:00-1:45
-  * Introduction to Social Media: The Price of Social Media Use-Stephen Colbert 1:50-6:25
-  * Observations on Sharing Data and Ineffective Privacy Protection 6:30-7:50
-  * Social Cause: Collection of Data Across Sites 7:50-10:30
-  * Multimedia in Internet is Growing 10:35-12:05
-  * CS Problem: Higher Demand for Retrieval and Organization of Data 12:07-13:05
-  * Manual Tagging & Geo Tagging 13:05-17:30
-  * Issue of Tracking & Dangers of Oversharing 17:30-18:31
-  * Berkeley Multimedia Location Estomation Project [http:\/\/multimedia.icsi.berkeley.edu\/multimodal-location-estimation\/](http://multimedia.icsi.berkeley.edu/multimodal-location-estimation/)
-    18:31---
-  * ICSI’s Evaluation Results 19:49
-  * YouTube Cybercasing 20:47
-  * Privacy Implication of Internet and Data 22: 30-25:40
-  * Person Linking Using Internet Videos 25:45-26:45
-  * Solutions for Privacy that Don’t Work: Think Before You Post! 26:45-28:14
-
-
-* Introduction to topic
+ Introduction to topic
 
   * Provide motivation or context for the day's topics by asking questions connecting the topic to students' experiences
 
@@ -106,6 +77,38 @@ Students will be able to...
 1. Debrief
   * Ask one or more students to summarize the topics covered in the lesson and their thought or opinions
   * Consider collecting some evidence of the activity, such as students' responses to the guiding questions or notes from small-group discussions, to evaluate engagement with the lesson
+
+##BJC Lecture Suggestion 
+#### Good for Classroom Instruction/Background Information for Intructors
+
+  * [BJC Lecture 10: Social Implications of Computing](https://www.youtube.com/watch?v=Rng91dxdsuM)
+
+ * META: Computers in Education \(Implications of Multiple Choice Tests\) 0:00-4:30
+ * Computers in Education \(Open?\) Judah Schwartz 4:31 --
+ * Tools 4:50-5:30
+ * Microworld 5:30-6:30
+ * Microworld Example Physics Simulation 6:30-10:30
+ * Courseware 10:38-11:30
+ * RSA Animate: Changing Educational Paradigms 11:35
+ * Animation Begins \(Sir Ken Robinson: Changing Paradigms\) 12:30-24:25
+
+* [BJC Lecture 12:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg) \*Good for Classroom Instruction-Suggest Previewing due to Social Media Examples.
+
+ * Dr. Gerald Friedland Sr. Research Scientist at International Computer Science Institute \(ICSI\) on Sharing Multimedia and the Impact on Online Privacy\) 0:00-1:45
+ * Introduction to Social Media: The Price of Social Media Use-Stephen Colbert 1:50-6:25
+ * Observations on Sharing Data and Ineffective Privacy Protection 6:30-7:50
+ * Social Cause: Collection of Data Across Sites 7:50-10:30
+ * Multimedia in Internet is Growing 10:35-12:05
+ * CS Problem: Higher Demand for Retrieval and Organization of Data 12:07-13:05
+ * Manual Tagging & Geo Tagging 13:05-17:30
+ * Issue of Tracking & Dangers of Oversharing 17:30-18:31
+ * Berkeley Multimedia Location Estomation Project [http:\/\/multimedia.icsi.berkeley.edu\/multimodal-location-estimation\/](http://multimedia.icsi.berkeley.edu/multimodal-location-estimation/)
+ 18:31---
+ * ICSI’s Evaluation Results 19:49
+ * YouTube Cybercasing 20:47
+ * Privacy Implication of Internet and Data 22: 30-25:40
+ * Person Linking Using Internet Videos 25:45-26:45
+ * Solutions for Privacy that Don’t Work: Think Before You Post! 26:45-28:14
 
 
 ## Accommodation\/Differentiation
