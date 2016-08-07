@@ -60,7 +60,7 @@ Students will be able to...
  - Solutions for Privacy that Don’t Work: Think Before You Post! 26:45-28:14
 
 
-####Backround Information for Instructors
+####Background Information for Instructors
 - BJC Video Suggestion: [BJC Lecture 1: Abstraction](https://www.youtube.com/watch?v=Dxw9cIbzaLk)
  - Basic concepts of the course: 0:00-7:00
  - Introduction of Piazza: 7:00-8:25
