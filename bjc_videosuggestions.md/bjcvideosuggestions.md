@@ -111,7 +111,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
 *  [BJC Lecture 8: Concurrency (Yaniv Assaf](https://www.youtube.com/watch?v=LlLLcGJPvwU) 
 	- 	Friendship Paradox: Facebook 00-1:30
 	- 	Concurrency & Parallelism (Inter-Intra Computer, Cloud Computing) 1:31-4:10
-	- 	Anatomy of a Computer ( John von Neumann Architecture) 4:15-5:20 *Good for Classroom Instruction
+	- 	[Anatomy of a Computer ( John von Neumann Architecture) 4:15-5:20 ](http://www.youtube.com/watch?v=LlLLcGJPvwU&t=4m15s)**Good for Classroom Instruction**
 	- 	But what is INSIDE of a Processor 5:20-6:30
 	- 	Moore’s Law Prediction (2x Transistors/chip every 2 years) 6:35-7:45
 	- 	Moore’s Law & Related Curves 7:50-10:00
@@ -150,10 +150,10 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
 	- 	Animation Begins (Sir Ken Robinson: Changing Paradigms) 12:30-24:25
 
 
-* [BJC Lecture 11:Recursion II Alijia Yan](https://www.youtube.com/watch?v=w2d_snYBLeY&index=11&list=PLA4F0F0CA4A3EE7F4)
+* [BJC Lecture 11: Recursion II Alijia Yan](https://www.youtube.com/watch?v=w2d_snYBLeY&index=11&list=PLA4F0F0CA4A3EE7F4)
  - Mobile World Congress 0:00-2:15
  - Recursion:Factorials (Factorial (n)+ n! 2:30-7:40
- - Fibonacci and Fibonacci Series Video 7:45-11:45 ** Good for Classroom Instruction**
+ - [Fibonacci and Fibonacci Series Video 7:45-11:45]
 (http://www.youtube.com/watch?v=w2d_snYBLeY&t=7m45s)
  - Fibonacci Ex: fin(n) Math and SNAP blocks 11:50-13:15
  - Example of Recursion: Counting Change 13:20-17:30
