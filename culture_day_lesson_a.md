@@ -1,4 +1,4 @@
-# Culture Day Lesson A: Video\/Reading
+# Culture Day Lesson A: Video/Reading
 
 ## Learning Objectives
 
@@ -43,7 +43,7 @@ Students will be able to...
 
 
 
-1.  Video\/Reading
+1.  Video/Reading
   * Students watch the video\/read the reading
     * Remind students to consider the guiding questions when watching\/reading
     * Students may take notes if desired, but should give their full attention to the material
