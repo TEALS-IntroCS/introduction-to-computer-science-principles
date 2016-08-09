@@ -153,8 +153,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
 * [BJC Lecture 11: Recursion II Alijia Yan](https://www.youtube.com/watch?v=w2d_snYBLeY&index=11&list=PLA4F0F0CA4A3EE7F4)
  - Mobile World Congress 0:00-2:15
  - Recursion:Factorials (Factorial (n)+ n! 2:30-7:40
- - [Fibonacci and Fibonacci Series Video 7:45-11:45]
-(http://www.youtube.com/watch?v=w2d_snYBLeY&t=7m45s)
+ - [Fibonacci and Fibonacci Series Video 7:45-11:45](http://www.youtube.com/watch?v=w2d_snYBLeY&t=7m45s) **Good for Classroom Instruction**
  - Fibonacci Ex: fin(n) Math and SNAP blocks 11:50-13:15
  - Example of Recursion: Counting Change 13:20-17:30
  - Call Tree for “Counting Change” with SNAP example 17:35-22:50
@@ -189,13 +188,13 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
  - Understanding Users 10:35-11:35
  - Prototype Interface Examples 11:40-14:00
  - Evaluation (Formative, Summative) 14:50
- - Why Study User Interfaces **Good for Classroom Instruction**
+ - [Why Study User Interfaces ](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=15m0s)**Good for Classroom Instruction**
  Ex:Mouse Xy axis, Sketchpad, PC, Tablets 15:00-25:00
  - What had changed? Research: Mainframe to Ubiquitous Computing 25:00-29:30
-- Example Project: Using Dexterity for Computer Interface Video 28:30-29:30 **Good for Classroom Instruction**
+- [Example Project: Using Dexterity for Computer Interface Video](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=28m30s) 28:30-29:30 **Good for Classroom Instruction**
  - Zipf/Power Law Distribution 30:00-32:00
  - HCI Research at Berkeley 32:10-46:25
- - Multi Touch Apps and Toolkits **Useful for Classroom Instruction**
+ - [Multi Touch Apps and Toolkits](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=32m0s) **Useful for Classroom Instruction**
 
 
 * [BJC Lecture 15:) Artificial Intelligence- Anna Rafferty](https://www.youtube.com/watch?v=_xcGWx3eDnw)
@@ -260,7 +259,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
  - Google’s Map Reduce Simplified 26:30-40:52
 
 
-[BJC Lecture 19: Higher Order Functions II](https://www.youtube.com/watch?v=QsiK8pB7KdQ)
+* [BJC Lecture 19: Higher Order Functions II](https://www.youtube.com/watch?v=QsiK8pB7KdQ)
  - Busting the King’s Gambit (Strongly Solve-Chess) 0:00-2:30
  - Higher Order Function Review (Filter, Map, Reduce) 2:30-6:30
  - Snap! BYOB Demo (Commented Out) 6:31-28:19
