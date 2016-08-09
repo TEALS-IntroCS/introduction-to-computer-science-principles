@@ -108,7 +108,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
 	- 	Ex: Finding Subsets 33:40 to End
 
 
-*  [BJC Lecture 8: Concurrency (Yaniv Assaf](https://www.youtube.com/watch?v=LlLLcGJPvwU) 
+*  [BJC Lecture 8: Concurrency (Yaniv Assaf)](https://www.youtube.com/watch?v=LlLLcGJPvwU) 
 	- 	Friendship Paradox: Facebook 00-1:30
 	- 	Concurrency & Parallelism (Inter-Intra Computer, Cloud Computing) 1:31-4:10
 	- 	[Anatomy of a Computer ( John von Neumann Architecture) 4:15-5:20 ](http://www.youtube.com/watch?v=LlLLcGJPvwU&t=4m15s)**Good for Classroom Instruction**
@@ -169,7 +169,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
  - CS Problem: Higher Demand for Retrieval and Organization of Data 12:07-13:05
  - Manual Tagging & Geo Tagging 13:05-17:30
  - Issue of Tracking & Dangers of Oversharing 17:30-18:31
- - [Berkeley Multimedia Location Estimation Project]( http://multimedia.icsi.berkeley.edu/multimodal-location-estimation/ )
+ - [Berkeley Multimedia Location Estimation Project]( http://multimedia.icsi.berkeley.edu/multimodal-location-estimation)
 18:31-28:14
      - ICSI’s Evaluation Results 19:49
      - YouTube Cybercasing 20:47
