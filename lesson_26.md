@@ -64,8 +64,7 @@ Students will be able to...
 
 
  * [ BJC Lecture 3: Video Games](https://www.youtube.com/watch?v=hdSFuhyGTIg)
-
-  - [History of Video Games Overview](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=2m30s) (Platform Game Prep) 2:30-7:55 
+  - [History of Video Games Overview] (http://www.youtube.com/watch?v=hdSFuhyGTIg&t=2m30s) (Platform Game Prep) 2:30-7:55 
   - [Casual Video Game World ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=8m0s)(light weight) 8:00-10:40 
 - [Core Video Game](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=10m45s) (heavy weight) 10:45-13:05   
    - [Motion Capture ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=15m25s)(Hero Movement for Platform Game Lab 2.6) 15:25-17:30 
