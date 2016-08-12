@@ -160,7 +160,8 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
  - Summary of Recursion 25:40-26:21
 
 
-* [BJC Lecture 12:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg) **Good for Classroom Instruction-Suggest Previewing due to Social Media Examples.**
+* [BJC Lecture 12: Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg) **Good for Classroom Instruction-Suggest Previewing due to Social Media Examples.**
+(This would be a good suppport for Social Media Safety/Awareness lesson)
  - Dr. Gerald Friedland Sr. Research Scientist at International Computer Science Institute (ICSI) on Sharing Multimedia and the Impact on Online Privacy) 0:00-1:45
  - Introduction to Social Media: The Price of Social Media Use-Stephen Colbert 1:50-6:25
  - Observations on Sharing Data and Ineffective Privacy Protection 6:30-7:50
