@@ -40,7 +40,7 @@ Students will be able to...
 
 ## BJC Lecture Suggestions 
 
-####Good for Classroom Instruction-Previewing Strongly Suggested due to Social Media Examples.
+####Good for Classroom Instruction-Previewing Suggested due to Social Media Examples. 
 
 * [BJC Lecture 11:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg) 
  - Dr. Gerald Friedland Sr. Research Scientist at International Computer Science Institute (ICSI) on Sharing Multimedia and the Impact on Online Privacy) 0:00-1:45
