@@ -1,4 +1,4 @@
-# Introduction to Computer Science V2 (beta)
+# Introduction to Computer Science
 
 <!-- TODO: Name of the course: Intro to CSP is good in terms of
 aligning the class with other standards, but we need a more exciting
@@ -7,7 +7,6 @@ name to attract students! -->
 Welcome to the new TEALS Intro CS Curriculum!
 
 ## About this curriculum
-The Introduction to Computer Science is being updated for the 2017-18 school year.
 
 ### License
 This curriculum is licensed under the Creative Commons Attribution Non-Commercial Share-alike License (http://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.
