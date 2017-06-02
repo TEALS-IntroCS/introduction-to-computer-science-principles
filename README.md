@@ -1,10 +1,15 @@
-# Introduction to Computer Science
+# Introduction to Computer Science - Depricated
 
 <!-- TODO: Name of the course: Intro to CSP is good in terms of
 aligning the class with other standards, but we need a more exciting
 name to attract students! -->
 
 Welcome to the new TEALS Intro CS Curriculum!
+
+This repository will be depricated after the 2016-17 school year.  The Intro CS curriculum is moving to a new GitHub repository and GitBook location starting the 2017-18 school year.
+
+- GitHub: https://github.com/TEALSK12/introduction-to-computer-science
+- GibBook: https://www.gitbook.com/book/tealsk12/introduction-to-computer-science/details
 
 ## About this curriculum
 
